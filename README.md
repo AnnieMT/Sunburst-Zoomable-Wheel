@@ -1,6 +1,6 @@
 Sunburst Zoomable Wheel
 =================================================
-By [Annie Thornton](http://scn.sap.com/people/suantak.niangneihoi)<br>
+By [Annie Thornton](https://www.linkedin.com/in/anniethornton/)<br>
 
 ![Sunburst Zoomable Wheel](https://github.com/SAP/lumira-extension-viz/blob/master/Sunburst_Zoomable_Wheel/sunburst_zoomable_wheel.gif)
 
